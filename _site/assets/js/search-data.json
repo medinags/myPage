@@ -1,0 +1,38 @@
+{"0": {
+    "doc": "ArchiTOOL",
+    "title": "ArchiTOOL",
+    "content": "# Research Problem The architecture of technical systems requires an extensive number of modelling and simulation software capabilites to define each view. So far, each view relies on a set of models developed in domain specific software. # Research Proposal The project ArchiTOOL aims at inventing and prototyping an immersive and intelligent virtual environment for the architecture of complex socio-technical systems. New visual and interactive metaphors support the design of a multi-view architecture in a unique virtual space. The systems thinking ontologyn, which underlies the human-machine interface, structures the core information in a graph. Finally, the integration of reasoning and machine learning capabilities into the virtual environment provides users with context-aware virtual scenes. ![goal.png](/assets/images/goal.png) # Proofs of Concept # contact **Romain Pinquié** - *Assistant Professor* - project contact: romain.pinquie@grenoble-inp.fr **Haobo Wang** - *PhD Candidate* **Frédéric Noel** - *Full Professor* ",
+    "url": "/PhD1.html",
+    "relUrl": "/PhD1.html"
+  },"1": {
+    "doc": "Recherche Topics",
+    "title": "Recherche Topics",
+    "content": "# Recherche Here are the research topics ",
+    "url": "/Recherche.html",
+    "relUrl": "/Recherche.html"
+  },"2": {
+    "doc": "Unity",
+    "title": "Unity",
+    "content": "# Getting Started # GitHUB & Unity ## .ignore ",
+    "url": "/Unity.html",
+    "relUrl": "/Unity.html"
+  },"3": {
+    "doc": "XR Sources",
+    "title": "XR Sources",
+    "content": " ",
+    "url": "/XRSources.html",
+    "relUrl": "/XRSources.html"
+  },"4": {
+    "doc": "About",
+    "title": "About",
+    "content": "About US ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  },"5": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "## Home Page Vision R ![visionr.jpg](/assets/images/visionr.jpg) ",
+    "url": "/",
+    "relUrl": "/"
+  }
+}
