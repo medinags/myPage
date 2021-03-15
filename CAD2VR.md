@@ -9,4 +9,4 @@ nav_order: 2
 
 To convert your CAD file go to 
 
-[CAD2VR](http://195.83.77.22/stepvrweb/){: .btn .btn-blue }
+[CAD2VR](http://195.83.77.22/stepvrweb){: .btn .btn-blue }
