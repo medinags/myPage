@@ -7,11 +7,10 @@ title: Home
 nav_order: 1
 #description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
-
+image : /assets/images/fondo.png
 ---
 
-## Home Page Vision R
-
-
-![visionr.jpg](/assets/images/visionr.jpg)
+# XR Sources VISION-R
+![]({{page.image | relative_url}})
+## How to discover XR Sources 
 

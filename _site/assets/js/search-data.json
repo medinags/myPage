@@ -1,37 +1,73 @@
 {"0": {
-    "doc": "ArchiTOOL",
-    "title": "ArchiTOOL",
-    "content": "# Research Problem The architecture of technical systems requires an extensive number of modelling and simulation software capabilites to define each view. So far, each view relies on a set of models developed in domain specific software. # Research Proposal The project ArchiTOOL aims at inventing and prototyping an immersive and intelligent virtual environment for the architecture of complex socio-technical systems. New visual and interactive metaphors support the design of a multi-view architecture in a unique virtual space. The systems thinking ontologyn, which underlies the human-machine interface, structures the core information in a graph. Finally, the integration of reasoning and machine learning capabilities into the virtual environment provides users with context-aware virtual scenes. ![goal.png](/assets/images/goal.png) # Proofs of Concept # contact **Romain Pinquié** - *Assistant Professor* - project contact: romain.pinquie@grenoble-inp.fr **Haobo Wang** - *PhD Candidate* **Frédéric Noel** - *Full Professor* ",
-    "url": "/PhD1.html",
-    "relUrl": "/PhD1.html"
+    "doc": "Augmented Reality",
+    "title": "Augmented Reality",
+    "content": "# Augmented Reality Here You will find all the information abour VR and how to Build Your VR application ",
+    "url": "/AugmentedReality.html",
+    "relUrl": "/AugmentedReality.html"
   },"1": {
-    "doc": "Recherche Topics",
-    "title": "Recherche Topics",
-    "content": "# Recherche Here are the research topics ",
-    "url": "/Recherche.html",
-    "relUrl": "/Recherche.html"
+    "doc": "CAD2VR",
+    "title": "CAD2VR",
+    "content": "# CAD2VR To convert your CAD file go to [CAD2VR](){: .btn .btn-blue } ",
+    "url": "/CAD2VR.html",
+    "relUrl": "/CAD2VR.html"
   },"2": {
+    "doc": "CVE",
+    "title": "CVE",
+    "content": "# CVE CVE Description ",
+    "url": "/CVE.html",
+    "relUrl": "/CVE.html"
+  },"3": {
+    "doc": "Getting Started with Unity",
+    "title": "Getting Started with Unity",
+    "content": "# Getting Started with Unity Here you can download all the material [PDF Tutorial](https://unity.com/fr){: .btn .btn-blue } [Material ](https://unity.com/fr){: .btn .btn-blue } ",
+    "url": "/second/GettingStartedUnity.html",
+    "relUrl": "/second/GettingStartedUnity.html"
+  },"4": {
+    "doc": "Git and Unity",
+    "title": "Git and Unity",
+    "content": "Here you will lernd how to use Git And Unity ## Creating a repository in GitLab ## .ignore ## Saving my Unity Projet ",
+    "url": "/second/GitandUnity.html",
+    "relUrl": "/second/GitandUnity.html"
+  },"5": {
+    "doc": "Hololens I",
+    "title": "Hololens I",
+    "content": "# Hololens ",
+    "url": "/second/HoloLens.html",
+    "relUrl": "/second/HoloLens.html"
+  },"6": {
+    "doc": "Setting up peripheral devices",
+    "title": "Setting up peripheral devices",
+    "content": "# Steam ",
+    "url": "/second/SettingUpPeripheralDevices.html",
+    "relUrl": "/second/SettingUpPeripheralDevices.html"
+  },"7": {
     "doc": "Unity",
     "title": "Unity",
-    "content": "# Getting Started # GitHUB & Unity ## .ignore ",
+    "content": "# Unity Unity is a software to build VR and AR [Unity Home Page](https://unity.com/fr){: .btn .btn-blue } ",
     "url": "/Unity.html",
     "relUrl": "/Unity.html"
-  },"3": {
-    "doc": "XR Sources",
-    "title": "XR Sources",
-    "content": " ",
-    "url": "/XRSources.html",
-    "relUrl": "/XRSources.html"
-  },"4": {
+  },"8": {
+    "doc": "Setting up peripheral devices",
+    "title": "Setting up peripheral devices",
+    "content": "# Virtual Reality with Unity ",
+    "url": "/second/VRWithUnity.html",
+    "relUrl": "/second/VRWithUnity.html"
+  },"9": {
+    "doc": "Virtual Reality",
+    "title": "Virtual Reality",
+    "content": "# Virtual Reality Here You will find all the information abour VR and how to Build Your VR application ",
+    "url": "/VirtualReality.html",
+    "relUrl": "/VirtualReality.html"
+  },"10": {
     "doc": "About",
     "title": "About",
     "content": "About US ",
     "url": "/about/",
     "relUrl": "/about/"
-  },"5": {
+  },"11": {
     "doc": "Home",
     "title": "Home",
-    "content": "## Home Page Vision R ![visionr.jpg](/assets/images/visionr.jpg) ",
+    "content": "# XR Sources VISION-R ![]({{page.image | relative_url}}) ## How to discover XR Sources ",
     "url": "/",
     "relUrl": "/"
   }
