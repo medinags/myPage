@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Setting up peripheral devices 
+title: Virtual Reality With Unity
 parent: Virtual Reality
 has_children: true
 nav_order: 2

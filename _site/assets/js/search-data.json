@@ -7,7 +7,7 @@
   },"1": {
     "doc": "CAD2VR",
     "title": "CAD2VR",
-    "content": "# CAD2VR To convert your CAD file go to [CAD2VR](){: .btn .btn-blue } ",
+    "content": "# Combining CAD and XR One of the most common challenges when trying to use a CAD file within VR or AR is model compatibility. A CAD tool models are based on B-REP models : set of free-form pacthes (NURBS, etc) saving information into native formats. A VR models focuss on visualisation based on polyhedron models (obj, stl, fbx). For this reason CAD files must be converted before being used in XR. Model conversion can be represented by the following structure ![]({{page.image | relative_url}}) [CAD2VR](http://195.83.77.22/stepvrweb/){: .btn .btn-blue } ",
     "url": "/CAD2VR.html",
     "relUrl": "/CAD2VR.html"
   },"2": {
@@ -47,8 +47,8 @@
     "url": "/Unity.html",
     "relUrl": "/Unity.html"
   },"8": {
-    "doc": "Setting up peripheral devices",
-    "title": "Setting up peripheral devices",
+    "doc": "Virtual Reality With Unity",
+    "title": "Virtual Reality With Unity",
     "content": "# Virtual Reality with Unity ",
     "url": "/second/VRWithUnity.html",
     "relUrl": "/second/VRWithUnity.html"
@@ -67,7 +67,7 @@
   },"11": {
     "doc": "Home",
     "title": "Home",
-    "content": "# XR Sources VISION-R ![]({{page.image | relative_url}}) ## How to discover XR Sources ",
+    "content": "# Welcome to XR Resources VISION-R ![]({{page.image | relative_url}}) XR Source is a website created by VISION-R to share knowledge in the field of XR technologies. You will have access to valuable information that has been compiled by the lab as a result of its research projects and its projects in the industry. This site will provide you with tutorials, assest and tips to support you in building your own Virtual Reality, Augmented Reality and Mixed Reality project. ## How to navigate on XR Resources ### Searching At the top of the site you will find the search bar. To start your search use keywords like _CVE, Virtual Reality, Unity_. All the results will be displayed in an autocomplete interface and clicking on it will send you to the page where the information is located. ![]({{page.image1 | relative_url}}) ### Main Navegation The main navigation of the XR Resources site is on the left side of the page. The main navigation is structured in different levels that are organized by topics. ## Thank you for your interest in XR technologies and enjoy it ",
     "url": "/",
     "relUrl": "/"
   }

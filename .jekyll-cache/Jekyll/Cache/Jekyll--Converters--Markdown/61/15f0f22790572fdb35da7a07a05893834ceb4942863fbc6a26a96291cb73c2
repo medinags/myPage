@@ -1,0 +1,9 @@
+I"Ž<h1 id="combining-cad-and-xr">Combining CAD and XR</h1>
+
+<p>One of the most common challenges when trying to use a CAD file within VR or AR is model compatibility. A CAD tool models are based on B-REP models : set of free-form pacthes (NURBS, etc) saving information into native formats. A VR models focuss on visualisation based on polyhedron models (obj, stl, fbx). For this reason CAD files must be converted before being used in XR. <br />
+Model conversion can be represented by the following structure <br /></p>
+
+<p><img src="/assets/images/cad2vr.PNG" alt="" /></p>
+
+<p><a href="http://195.83.77.22/stepvrweb/" class="btn btn-blue">CAD2VR</a></p>
+:ET
